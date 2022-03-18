@@ -1,0 +1,35 @@
+package name,app name,feature
+com.tortel.syslog,SysLog,Records various log types
+com.tortel.syslog,SysLog,compresses them as a zip file
+com.tortel.syslog,SysLog,Select the SysLog app to view collected log zips
+com.github.pires.obd.reader,Android OBD-II Reader,designed to connect to a bluetooth Elm327 OBD reader
+com.purplefoto.pfdock,PurpleDock,customization of three of the launch buttons
+com.purplefoto.pfdock,PurpleDock,PurpleDock works in both Portrait and Landscape orientation
+com.purplefoto.pfdock,PurpleDock,PurpleDock is a simple replacement for the car dock app that ships with many handsets
+com.purplefoto.pfdock,PurpleDock,GPS usage (used for speedometer) is throttled when not connected to power in order to save battery life
+com.purplefoto.pfdock,PurpleDock,"To override these buttons, tap and hold for 1 second to bring up an editor"
+org.navitproject.navit,Navit,capable of using vector maps of various formats for routing and rendering of the displayed map
+org.navitproject.navit,Navit,possible to use multiple maps at a time
+org.navitproject.navit,Navit,calculates an optimal route to your destination
+org.navitproject.navit,Navit,generates directions and even speaks to you
+org.navitproject.navit,Navit,Navit currently speaks 27 languages
+com.zoffcc.applications.zanavi,ZANavi,"new drive-home widget (works only if the app is installed in the phone, NOT sdcard)"
+com.zoffcc.applications.zanavi,ZANavi,index search
+com.zoffcc.applications.zanavi,ZANavi,support to show GPX files
+com.zoffcc.applications.zanavi,ZANavi,3D mode
+com.zoffcc.applications.zanavi,ZANavi,works offline (offline navigation)
+com.zoffcc.applications.zanavi,ZANavi,world overview map
+com.zoffcc.applications.zanavi,ZANavi,tunnels are visible on map
+com.zoffcc.applications.zanavi,ZANavi,bridges visible on map
+com.zoffcc.applications.zanavi,ZANavi,search offline OR online
+com.zoffcc.applications.zanavi,ZANavi,spoken directions in many languages
+com.zoffcc.applications.zanavi,ZANavi,uptodate OSM maps
+com.zoffcc.applications.zanavi,ZANavi,select your language in the application
+com.zoffcc.applications.zanavi,ZANavi,map preview on search results
+com.zoffcc.applications.zanavi,ZANavi,aGPS
+com.zoffcc.applications.zanavi,ZANavi,last destination list (bookmarks)
+com.zoffcc.applications.zanavi,ZANavi,add waypoints
+com.zoffcc.applications.zanavi,ZANavi,show waypoints on map
+com.zoffcc.applications.zanavi,ZANavi,full world map download
+com.zoffcc.applications.zanavi,ZANavi,free zoom level with pinch zoom
+com.zoffcc.applications.zanavi,ZANavi,"enter coordinates (lat,lon) manually"
